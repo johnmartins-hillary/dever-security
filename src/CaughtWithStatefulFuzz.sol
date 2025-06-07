@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.13;
+pragma solidity ^0.8.28;
 
 contract CaughtWithStatefulFuzz {
     uint256 public myValue = 1;
